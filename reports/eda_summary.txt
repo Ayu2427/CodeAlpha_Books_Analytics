@@ -1,0 +1,18 @@
+BOOKS TO SCRAPE — EDA SUMMARY
+
+Working sample: 20 records.
+Average price: £38.05
+Median price: £36.31
+Price range: £13.99 to £57.25
+Average rating: 2.85/5
+In-stock rate: 100.0%
+
+Questions:
+1. What is the typical book price?
+2. How are ratings distributed?
+3. Is price associated with rating?
+4. Which books are at the high end of the price distribution?
+5. Are there missing values, duplicates, or price outliers?
+
+Interpretation:
+The sample demonstrates a complete analytics workflow. Price and rating association should not be treated as causal. The source website states that its displayed prices and ratings are randomly assigned for scraping practice.
